@@ -1,0 +1,2 @@
+# Pixizer
+Pixizer - Image Resizer
